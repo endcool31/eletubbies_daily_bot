@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 要爬取的股票代號列表
-stock = ["1101", "2330"]
+stock = ["1101", "2330","1102"]
 
 # Telegram Bot 設定 (請替換為你的實際資料)
 token = "8967331494:AAEEGNdfSvN3fJeGsnAE7jVEp8gCPqVRnhs"
